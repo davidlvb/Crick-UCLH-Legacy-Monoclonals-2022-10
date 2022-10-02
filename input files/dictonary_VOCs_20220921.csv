@@ -1,0 +1,10 @@
+VOC_name_to_use,VOC_name_in_raw_data,VOC_plotting_order
+Ancestral,Eng2,1
+D614G,D614G,2
+Alpha,Alpha,3
+Beta,Beta,4
+Delta,Delta,5
+BA.1,BA.1,6
+BA.2,BA.2,7
+BA.2.12.1,BA.2.12.1,8
+BA.5,BA.5,9

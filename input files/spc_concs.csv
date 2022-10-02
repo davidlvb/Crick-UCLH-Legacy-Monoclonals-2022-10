@@ -1,0 +1,20 @@
+﻿mAb,timepoint,average,sd,cv,unit,spc_reference,date_accessed,dose,notes
+Casirivimab,c28,37.9,10.33,,mg/L,https://www.medicines.org.uk/emc/product/12863#gref,24/06/2022,IV 600 mg casirivimab and 600 mg imdevimab,
+Imdevimab,c28,31,8.24,,mg/L,https://www.medicines.org.uk/emc/product/12863#gref,24/06/2022,IV 600 mg casirivimab and 600 mg imdevimab,
+Sotrovimab,c28,24.5,10.388,42.40%,ug/mL,https://www.medicines.org.uk/emc/product/13097/smpc#gref,24/06/2022,IV 500mg sotrovimab,C29 reported; CV reported + SD back-calculated
+Casirivimab,cmax,182.7,81.45,,mg/L,https://www.medicines.org.uk/emc/product/12863#gref,24/06/2022,IV 600 mg casirivimab and 600 mg imdevimab,
+Imdevimab,cmax,181.7,77.78,,mg/L,https://www.medicines.org.uk/emc/product/12863#gref,24/06/2022,IV 600 mg casirivimab and 600 mg imdevimab,
+Sotrovimab,cmax,117.6,54.684,46.50%,ug/mL,https://www.medicines.org.uk/emc/product/13097/smpc#gref,24/06/2022,IV 500mg sotrovimab,CV reported + SD back-calculated
+Tixagevimab,cmax,16.5,5.874,35.60%,ug/mL,https://www.gov.uk/government/publications/regulatory-approval-of-evusheld-tixagevimabcilgavimab/summary-of-product-characteristics-for-evusheld,24/06/2022,IM 150mg tixagevimab and 150mg cilgavimab,Cmax at 14d; CV reported + SD back-calculated
+Cilgavimab,cmax,15.3,5.8905,38.50%,ug/mL,https://www.gov.uk/government/publications/regulatory-approval-of-evusheld-tixagevimabcilgavimab/summary-of-product-characteristics-for-evusheld,24/06/2022,IM 150mg tixagevimab and 150mg cilgavimab,Cmax at 14d; CV reported + SD back-calculated
+Evusheld,c28,26.7,11.2,,ug/mL,https://www.gov.uk/government/publications/regulatory-approval-of-evusheld-tixagevimabcilgavimab/summary-of-product-characteristics-for-evusheld,24/06/2022,IM 150mg tixagevimab and 150mg cilgavimab,C29 reported
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
