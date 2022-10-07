@@ -1,7 +1,7 @@
 # Crick-UCLH-Legacy-Monoclonals-2022-10
-Data and analysis scripts for Wu _et al._, _Lancet_, 2022.
+Data and analysis scripts for Wu _et al._, _Lancet_, 2022b.
 
-"Clinical and in vitro evidence support reassessment of WHO Living Guideline on monoclonal antibody therapy for COVID-19"
+"WHO's Therapeutics and COVID-19 Living Guideline on mAbs needs to be reassessed"
 
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01938-9/fulltext
 
